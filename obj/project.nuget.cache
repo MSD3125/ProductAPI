@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BhZFwmxXvAkzVNuTZNE0xfQvltkGsg4TKkWtjKWBUdXVvnDY2lxL7ALZpifsWgHVH0DMAkNzajZ22ncCr5XfnQ==",
+  "success": true,
+  "projectFilePath": "D:\\Crypto\\MiddleWare\\products-api-dotnet-core\\ProductsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

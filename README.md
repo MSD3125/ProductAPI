@@ -1,2 +1,1 @@
-# ProductAPI
-ProductAPI
+# products-api-dotnet-core
