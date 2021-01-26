@@ -1,4 +1,8 @@
 # ASP.NET
+- task: IISWebAppDeploymentOnMachineGroup@0
+  inputs:
+    WebSiteName: 'Mahesh'
+    Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
 - task: IISWebAppManagementOnMachineGroup@0
   inputs:
     IISDeploymentType: 'IISWebsite'
